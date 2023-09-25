@@ -3,10 +3,10 @@
 
 ### Вот что я умею 
 
-- Дипломная работа [«Облачное хранилище»](https://github.com/DariaSuntcova/Diploma-Cloud-Storage)
-- Курсовой проект [«Сервис перевода денег»](https://github.com/DariaSuntcova/CourseworkMoneyTransferService)
-- Курсовой проект [«Сетевой чат»](https://github.com/DariaSuntcova/Course-project-Network-chat-)
-- Курсовой проект [«Конвертер в текстовую графику»](https://github.com/DariaSuntcova/Coursework_Converter-to-text-graphics)
+-  [«Облачное хранилище»](https://github.com/DariaSuntcova/Diploma-Cloud-Storage)
+-  [«Сервис перевода денег»](https://github.com/DariaSuntcova/CourseworkMoneyTransferService)
+-  [«Сетевой чат»](https://github.com/DariaSuntcova/Course-project-Network-chat-)
+-  [«Конвертер в текстовую графику»](https://github.com/DariaSuntcova/Coursework_Converter-to-text-graphics)
   
 ### Сертификаты Нетологии
   - [Java-разработчик с нуля](https://drive.google.com/file/d/1H7kBwsIsYUtbmFlNWgztedUOIufK9WoJ/view?usp=sharing)
