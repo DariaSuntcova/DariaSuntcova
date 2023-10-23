@@ -4,6 +4,7 @@
 ### Вот что я умею 
 
 -  [«JuniorHub_task-service»](https://github.com/DariaSuntcova/JuniorHub_task-service)
+-  [«Бэкенд для сайта Центра по работе с глухими и слабослышащими Десница»](https://github.com/DariaSuntcova/desnitsa)
 -  [«Облачное хранилище»](https://github.com/DariaSuntcova/Diploma-Cloud-Storage)
 -  [«Сервис перевода денег»](https://github.com/DariaSuntcova/CourseworkMoneyTransferService)
 -  [«Сетевой чат»](https://github.com/DariaSuntcova/Course-project-Network-chat-)
