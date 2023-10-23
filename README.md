@@ -3,6 +3,7 @@
 
 ### Вот что я умею 
 
+-["JuniorHub_task-service"](https://github.com/DariaSuntcova/JuniorHub_task-service)
 -  [«Облачное хранилище»](https://github.com/DariaSuntcova/Diploma-Cloud-Storage)
 -  [«Сервис перевода денег»](https://github.com/DariaSuntcova/CourseworkMoneyTransferService)
 -  [«Сетевой чат»](https://github.com/DariaSuntcova/Course-project-Network-chat-)
