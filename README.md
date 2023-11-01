@@ -3,7 +3,6 @@
 
 ### Вот что я умею 
 
--  [«JuniorHub_task-service»](https://github.com/DariaSuntcova/JuniorHub_task-service)
 -  [«Бэкенд для сайта Центра по работе с глухими и слабослышащими Десница»](https://github.com/DariaSuntcova/desnitsa)
 -  [«Социальная сеть»](https://github.com/DariaSuntcova/Social-network.git)
 -  [«HomeHab»](https://github.com/DariaSuntcova/HomeHab#homehab)
