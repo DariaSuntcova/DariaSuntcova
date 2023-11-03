@@ -13,15 +13,21 @@
 <img src="https://komarev.com/ghpvc/?username=DariaSuntcova&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Мои проекты
-
--  [«Бэкенд для сайта Центра по работе с глухими и слабослышащими Десница»](https://github.com/DariaSuntcova/desnitsa)
--  [«Социальная сеть»](https://github.com/DariaSuntcova/Social-network.git)
--  [«HomeHab»](https://github.com/DariaSuntcova/HomeHab#homehab)
--  [«Облачное хранилище»](https://github.com/DariaSuntcova/Diploma-Cloud-Storage)
--  [«Сервис перевода денег»](https://github.com/DariaSuntcova/CourseworkMoneyTransferService)
--  [«Сетевой чат»](https://github.com/DariaSuntcova/Course-project-Network-chat-)
--  [«Конвертер в текстовую графику»](https://github.com/DariaSuntcova/Coursework_Converter-to-text-graphics)
+## Мои скилы
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-316192?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DA55F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%2320232a.svg?style=for-the-badge&logo=JPA&logoColor=%2361DAFB)
+![Validation](https://img.shields.io/badge/Validation-%23593d88.svg?style=for-the-badge&logo=Validation&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-%23E0234E.svg?style=for-the-badge&logo=Flyway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%2338B2AC.svg?style=for-the-badge&logo=tailwind-Git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-%238DD6F9.svg?style=for-the-badge&logo=JUnit5&logoColor=black)
+![Mockito](https://img.shields.io/badge/Mockito-%23646CFF.svg?style=for-the-badge&logo=Mockito&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-000000.svg?style=for-the-badge&logo=Testcontainers&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23593d88.svg?style=for-the-badge&logo=Swagger&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   
 
 
