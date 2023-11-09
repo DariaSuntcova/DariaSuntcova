@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dEvfJaOEzxl9AUSzHP/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](http://t.me/DariaSuncova)">
+  <a href="[http://t.me/DariaSuncova]">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
